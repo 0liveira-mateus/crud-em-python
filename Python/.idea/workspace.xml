@@ -5,26 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e74ae3-2879-45fb-a3c9-282d7e67df4f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CRUD/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.2.3.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.2.3.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-22.3.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-22.3.1.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlparse-0.4.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlparse-0.4.4.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/django-admin.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/django-admin.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.11.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.11.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/sqlformat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/sqlformat.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -36,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/crud-em-python/Python"
   }
