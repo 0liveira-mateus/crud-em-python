@@ -4,14 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f81abe9b-1da0-4c27-ace1-6d286ff19b51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/templates/view.html" afterDir="false" />
+    <list default="true" id="49436201-94da-4f2d-b2b2-1c1d32ba479c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/templates/formulario.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRUD/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CRUD/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/form.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/view.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/view.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.2.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Django-4.2.4.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-22.3.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-22.3.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlparse-0.4.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlparse-0.4.4.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/django-admin.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/django-admin.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.11.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.11.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/sqlformat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/sqlformat.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +42,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2TP2HBLP5VDH481ltx4TM80Jbx7" />
+  <component name="ProjectId" id="2TTUTJejbicfkB6JmGIME9LixZX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,17 +51,25 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/crud-em-python/Python"
+    "last_opened_file_path": "C:/crud-em-python/Python/app/templates"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\crud-em-python\Python\app\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\crud-em-python\Python\app" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f81abe9b-1da0-4c27-ace1-6d286ff19b51" name="Changes" comment="" />
-      <created>1690930304418</created>
+      <changelist id="49436201-94da-4f2d-b2b2-1c1d32ba479c" name="Changes" comment="" />
+      <created>1691066571120</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1690930304418</updated>
+      <updated>1691066571120</updated>
     </task>
     <servers />
   </component>
